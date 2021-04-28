@@ -230,6 +230,7 @@
             android:id="@+id/btnActualizarEst"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/round_bg"
             android:text="Cambiar Estado" />
 
         <Space
@@ -242,6 +243,7 @@
             android:layout_width="133dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:background="@drawable/round_bg"
             android:text="Cerrar" />
     </LinearLayout>
 </LinearLayout>
